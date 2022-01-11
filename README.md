@@ -1,7 +1,10 @@
+## Contacts:
+
 LinkedIn: https://www.linkedin.com/in/avoishel/
+
 Mail: avoishel@gmail.com
 
-##
+## Statistics:
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=SmallGreenMan&hide=contribs&show_icons=true&theme=react">
     <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=SmallGreenMan&hide=contribs&show_icons=true&theme=react" />
