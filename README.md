@@ -1,4 +1,5 @@
-### Добро пожаловать на мою страницу в GitHub 👋
+LinkedIn: https://www.linkedin.com/in/avoishel/
+Mail: avoishel@gmail.com
 
 ##
 <div>
